@@ -30,7 +30,7 @@ Give it a quick watch.
   * Parses metadata from streams (Track & Artist information)
 - Uses [Spring](https://github.com/MengTo/Spring) library:
   * Animate UI components
-  * Download and cache images using ImageLoader class
+  * Download and cache images using ImageLoader class.
 
 ## Requirements
 
